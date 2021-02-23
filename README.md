@@ -28,3 +28,4 @@ In 2019 I participated in Amazon Web Services Deep Race Competition in Re:Invent
 ![hyperparameter](https://github.com/ShrishtiHore/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/hyper.jpeg)
 
 ### Results
+- Submission was successful clearling all the required test cases with a time of 42 secs. Thus getting in the leaderboard of the event !
